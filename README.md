@@ -5,10 +5,10 @@
  Here are some images of the game in motion
 
  ## Main Screen / GAME OVER Screen
-![screenshot1](SpaceInvaders1.png)
+<img src="SpaceInvaders1.png" alt="screenshot1" width="500"/>
 
 ## Start of Game
-![screenshot2](SpaceInvaders2.png)
+<img src="SpaceInvaders2.png" alt="screenshot2" width="500"/>
 
 ## During Game
-![screenshot3](SpaceInvaders3.png)
+<img src="SpaceInvaders3.png" alt="screenshot3" width="500"/>
